@@ -31,9 +31,9 @@ $G_y = w_{31} + w_{32} + w_{33} - w_{11} - w_{12} - w_{13}$
 
 **результат:**
 
-![text](images\shrek.png)
+![text](./images/shrek.png)
 
-![после применения фильтра Собеля](images\shrek_output.png)
+![после применения фильтра Собеля](./images/shrek_output.png)
 
 
 ## **Лабораторная работа 3:**
